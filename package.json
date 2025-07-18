@@ -10,10 +10,13 @@
   "author": "Ali Imran",
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
     "colors": "^1.4.0",
     "dotenv": "^16.6.0",
     "express": "^5.1.0",
     "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.16.1"
   },
   "devDependencies": {
